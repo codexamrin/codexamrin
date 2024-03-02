@@ -5,6 +5,7 @@
 <h1> My Project link  </h1>
 1)https://codexamrin.github.io/PandaHuntingGame/front.html
 2)https://codexamrin.github.io/Portfolio_website/home.html
+3) https://codexamrin.github.io/assinment_internship/assin.html
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/amrin-masuldar-311982229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="- https://www.linkedin.com/in/amrinmasuldar-311982229" height="30" width="40" /></a>
